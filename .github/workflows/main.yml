@@ -1,4 +1,4 @@
-name: Build and Deploy Ionic App
+name: Build and Deploy Ionic Application
 
 on:
   push:
